@@ -11,3 +11,7 @@ BOJ Start : 2020/11/26<br>
 - ex) "2557 Hello World(2020/11/26)
 #### Minimum amount of problem to be solved in a week
 - At least 5 questions(As of 2020/11/26)
+#### Log
+- Solve the problem, And write a log.
+- Log commit : "update YY/MM/DD solved log"
+- Log commit ex : "update 2020/11/26 solved log"
