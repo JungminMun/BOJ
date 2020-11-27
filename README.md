@@ -10,7 +10,9 @@ BOJ Start : 2020/11/26<br>
 - Commit message : "Problem_number Problem_name(Solved yy/mm/dd)
 - ex) "2557 Hello World(2020/11/26)
 #### Minimum amount of problem to be solved in a week
-- At least 5 questions(As of 2020/11/26)
+- At least 15 questions(As of 2020/11/26)
+- Step by step to solve 3 problems
+- After solving the step-by-step problem, solve the desired problem
 #### Log
 - Solve the problem, And write a log.
 - Log commit : "update YY/MM/DD solved log"
